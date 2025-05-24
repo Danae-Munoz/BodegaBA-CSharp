@@ -36,21 +36,21 @@ namespace BuenosAires.BodegaBA
             this.lblPassword = new System.Windows.Forms.Label();
             this.lblTituloVentana = new System.Windows.Forms.Label();
             this.lblNombreSistema = new System.Windows.Forms.Label();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txtCuenta
             // 
-            this.txtCuenta.Location = new System.Drawing.Point(184, 114);
-            this.txtCuenta.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtCuenta.Location = new System.Drawing.Point(212, 112);
+            this.txtCuenta.Margin = new System.Windows.Forms.Padding(4);
             this.txtCuenta.Name = "txtCuenta";
             this.txtCuenta.Size = new System.Drawing.Size(132, 22);
             this.txtCuenta.TabIndex = 0;
             // 
             // txtPassword
             // 
-            this.txtPassword.Location = new System.Drawing.Point(184, 160);
-            this.txtPassword.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtPassword.Location = new System.Drawing.Point(212, 158);
+            this.txtPassword.Margin = new System.Windows.Forms.Padding(4);
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.PasswordChar = '*';
             this.txtPassword.Size = new System.Drawing.Size(132, 22);
@@ -58,8 +58,8 @@ namespace BuenosAires.BodegaBA
             // 
             // btnIngresar
             // 
-            this.btnIngresar.Location = new System.Drawing.Point(107, 213);
-            this.btnIngresar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnIngresar.Location = new System.Drawing.Point(133, 237);
+            this.btnIngresar.Margin = new System.Windows.Forms.Padding(4);
             this.btnIngresar.Name = "btnIngresar";
             this.btnIngresar.Size = new System.Drawing.Size(191, 28);
             this.btnIngresar.TabIndex = 2;
@@ -70,7 +70,7 @@ namespace BuenosAires.BodegaBA
             // lblCuenta
             // 
             this.lblCuenta.AutoSize = true;
-            this.lblCuenta.Location = new System.Drawing.Point(84, 118);
+            this.lblCuenta.Location = new System.Drawing.Point(112, 116);
             this.lblCuenta.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblCuenta.Name = "lblCuenta";
             this.lblCuenta.Size = new System.Drawing.Size(49, 16);
@@ -80,7 +80,7 @@ namespace BuenosAires.BodegaBA
             // lblPassword
             // 
             this.lblPassword.AutoSize = true;
-            this.lblPassword.Location = new System.Drawing.Point(84, 164);
+            this.lblPassword.Location = new System.Drawing.Point(112, 162);
             this.lblPassword.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblPassword.Name = "lblPassword";
             this.lblPassword.Size = new System.Drawing.Size(76, 16);
@@ -91,7 +91,7 @@ namespace BuenosAires.BodegaBA
             // 
             this.lblTituloVentana.AutoSize = true;
             this.lblTituloVentana.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTituloVentana.Location = new System.Drawing.Point(47, 58);
+            this.lblTituloVentana.Location = new System.Drawing.Point(75, 56);
             this.lblTituloVentana.Name = "lblTituloVentana";
             this.lblTituloVentana.Size = new System.Drawing.Size(308, 25);
             this.lblTituloVentana.TabIndex = 7;
@@ -101,29 +101,29 @@ namespace BuenosAires.BodegaBA
             // 
             this.lblNombreSistema.AutoSize = true;
             this.lblNombreSistema.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblNombreSistema.Location = new System.Drawing.Point(83, 11);
+            this.lblNombreSistema.Location = new System.Drawing.Point(111, 9);
             this.lblNombreSistema.Name = "lblNombreSistema";
             this.lblNombreSistema.Size = new System.Drawing.Size(225, 25);
             this.lblNombreSistema.TabIndex = 8;
             this.lblNombreSistema.Text = "Sistema Buenos Aires";
             // 
-            // checkBox1
+            // label1
             // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(331, 218);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(50, 20);
-            this.checkBox1.TabIndex = 9;
-            this.checkBox1.Text = "123";
-            this.checkBox1.UseVisualStyleBackColor = true;
-            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.SystemColors.Control;
+            this.label1.ForeColor = System.Drawing.Color.Blue;
+            this.label1.Location = new System.Drawing.Point(165, 206);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(133, 16);
+            this.label1.TabIndex = 9;
+            this.label1.Text = "Olvidé mi contraseña";
             // 
             // VentanaLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(424, 268);
-            this.Controls.Add(this.checkBox1);
+            this.ClientSize = new System.Drawing.Size(477, 297);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.lblNombreSistema);
             this.Controls.Add(this.lblTituloVentana);
             this.Controls.Add(this.lblPassword);
@@ -131,9 +131,10 @@ namespace BuenosAires.BodegaBA
             this.Controls.Add(this.btnIngresar);
             this.Controls.Add(this.txtPassword);
             this.Controls.Add(this.txtCuenta);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "VentanaLogin";
             this.Text = "Iniciar sesión";
+            this.Load += new System.EventHandler(this.VentanaLogin_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -148,6 +149,6 @@ namespace BuenosAires.BodegaBA
         private System.Windows.Forms.Label lblPassword;
         private System.Windows.Forms.Label lblTituloVentana;
         private System.Windows.Forms.Label lblNombreSistema;
-        private System.Windows.Forms.CheckBox checkBox1;
+        private System.Windows.Forms.Label label1;
     }
 }

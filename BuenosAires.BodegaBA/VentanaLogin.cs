@@ -33,5 +33,10 @@ namespace BuenosAires.BodegaBA
         {
 
         }
+
+        private void VentanaLogin_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
