@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\NaneUWU\\Documents\\GitHub\\BodegaBA-CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F45051A2-3661-44A1-A563-B6C94ABF25D5}|BuenosAires.BodegaBA\\BuenosAires.BodegaBA.csproj|c:\\users\\naneuwu\\documents\\github\\bodegaba-csharp\\buenosaires.bodegaba\\ventanalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F45051A2-3661-44A1-A563-B6C94ABF25D5}|BuenosAires.BodegaBA\\BuenosAires.BodegaBA.csproj|solutionrelative:buenosaires.bodegaba\\ventanalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7D7860DA-4400-436A-84B1-D4F6D625C628}|BuenosAires.ServiceLayer\\BuenosAires.ServiceLayer.csproj|c:\\users\\naneuwu\\documents\\github\\bodegaba-csharp\\buenosaires.servicelayer\\wsautenticacion.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7860DA-4400-436A-84B1-D4F6D625C628}|BuenosAires.ServiceLayer\\BuenosAires.ServiceLayer.csproj|solutionrelative:buenosaires.servicelayer\\wsautenticacion.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45051A2-3661-44A1-A563-B6C94ABF25D5}|BuenosAires.BodegaBA\\BuenosAires.BodegaBA.csproj|c:\\users\\naneuwu\\documents\\github\\bodegaba-csharp\\buenosaires.bodegaba\\properties\\datasources\\buenosaires.model.producto.datasource||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F45051A2-3661-44A1-A563-B6C94ABF25D5}|BuenosAires.BodegaBA\\BuenosAires.BodegaBA.csproj|solutionrelative:buenosaires.bodegaba\\properties\\datasources\\buenosaires.model.producto.datasource||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7860DA-4400-436A-84B1-D4F6D625C628}|BuenosAires.ServiceLayer\\BuenosAires.ServiceLayer.csproj|c:\\users\\naneuwu\\documents\\github\\bodegaba-csharp\\buenosaires.servicelayer\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D7860DA-4400-436A-84B1-D4F6D625C628}|BuenosAires.ServiceLayer\\BuenosAires.ServiceLayer.csproj|solutionrelative:buenosaires.servicelayer\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF9BD625-1E7E-47F4-9A14-12BD02D9952B}|BuenosAires.BusinessLayer\\BuenosAires.BusinessLayer.csproj|C:\\Users\\NaneUWU\\Documents\\GitHub\\BodegaBA-CSharp\\buenosaires.businesslayer\\bcproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF9BD625-1E7E-47F4-9A14-12BD02D9952B}|BuenosAires.BusinessLayer\\BuenosAires.BusinessLayer.csproj|solutionrelative:buenosaires.businesslayer\\bcproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45051A2-3661-44A1-A563-B6C94ABF25D5}|BuenosAires.BodegaBA\\BuenosAires.BodegaBA.csproj|c:\\users\\naneuwu\\documents\\github\\bodegaba-csharp\\buenosaires.bodegaba\\ventanalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F45051A2-3661-44A1-A563-B6C94ABF25D5}|BuenosAires.BodegaBA\\BuenosAires.BodegaBA.csproj|solutionrelative:buenosaires.bodegaba\\ventanalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F45051A2-3661-44A1-A563-B6C94ABF25D5}|BuenosAires.BodegaBA\\BuenosAires.BodegaBA.csproj|C:\\Users\\NaneUWU\\Documents\\GitHub\\BodegaBA-CSharp\\buenosaires.bodegaba\\ventanaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -31,6 +43,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BuenosAires.Model.Producto.datasource",
+              "DocumentMoniker": "C:\\Users\\NaneUWU\\Documents\\GitHub\\BodegaBA-CSharp\\BuenosAires.BodegaBA\\Properties\\DataSources\\BuenosAires.Model.Producto.datasource",
+              "RelativeDocumentMoniker": "BuenosAires.BodegaBA\\Properties\\DataSources\\BuenosAires.Model.Producto.datasource",
+              "ToolTip": "C:\\Users\\NaneUWU\\Documents\\GitHub\\BodegaBA-CSharp\\BuenosAires.BodegaBA\\Properties\\DataSources\\BuenosAires.Model.Producto.datasource",
+              "RelativeToolTip": "BuenosAires.BodegaBA\\Properties\\DataSources\\BuenosAires.Model.Producto.datasource",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-05-25T19:19:08.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\NaneUWU\\Documents\\GitHub\\BodegaBA-CSharp\\BuenosAires.ServiceLayer\\Web.Release.config",
+              "RelativeDocumentMoniker": "BuenosAires.ServiceLayer\\Web.Release.config",
+              "ToolTip": "C:\\Users\\NaneUWU\\Documents\\GitHub\\BodegaBA-CSharp\\BuenosAires.ServiceLayer\\Web.Release.config",
+              "RelativeToolTip": "BuenosAires.ServiceLayer\\Web.Release.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-25T19:18:27.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WsAutenticacion.svc.cs",
+              "DocumentMoniker": "C:\\Users\\NaneUWU\\Documents\\GitHub\\BodegaBA-CSharp\\BuenosAires.ServiceLayer\\WsAutenticacion.svc.cs",
+              "RelativeDocumentMoniker": "BuenosAires.ServiceLayer\\WsAutenticacion.svc.cs",
+              "ToolTip": "C:\\Users\\NaneUWU\\Documents\\GitHub\\BodegaBA-CSharp\\BuenosAires.ServiceLayer\\WsAutenticacion.svc.cs",
+              "RelativeToolTip": "BuenosAires.ServiceLayer\\WsAutenticacion.svc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:16:03.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BcProducto.cs",
               "DocumentMoniker": "C:\\Users\\NaneUWU\\Documents\\GitHub\\BodegaBA-CSharp\\BuenosAires.BusinessLayer\\BcProducto.cs",
               "RelativeDocumentMoniker": "BuenosAires.BusinessLayer\\BcProducto.cs",
@@ -38,11 +89,12 @@
               "RelativeToolTip": "BuenosAires.BusinessLayer\\BcProducto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T00:50:42.392Z"
+              "WhenOpened": "2025-05-20T00:50:42.392Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "VentanaProducto.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\NaneUWU\\Documents\\GitHub\\BodegaBA-CSharp\\BuenosAires.BodegaBA\\VentanaProducto.cs",
               "RelativeDocumentMoniker": "BuenosAires.BodegaBA\\VentanaProducto.cs",
@@ -53,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "VentanaLogin.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\NaneUWU\\Documents\\GitHub\\BodegaBA-CSharp\\BuenosAires.BodegaBA\\VentanaLogin.cs",
               "RelativeDocumentMoniker": "BuenosAires.BodegaBA\\VentanaLogin.cs",
@@ -65,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "VentanaBuscarID.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\NaneUWU\\Documents\\GitHub\\BodegaBA-CSharp\\BuenosAires.BodegaBA\\VentanaBuscarID.cs",
               "RelativeDocumentMoniker": "BuenosAires.BodegaBA\\VentanaBuscarID.cs",

@@ -1,1 +1,0 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" Service="BuenosAires.ServiceLayer.WsAutenticacion" CodeBehind="WsAutenticacion.svc.cs" %>

@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{7D7860DA-4400-436A-84B1-D4F6D625C628}|BuenosAires.ServiceLayer\\BuenosAires.ServiceLayer.csproj|solutionrelative:buenosaires.servicelayer\\wsautenticacion.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F45051A2-3661-44A1-A563-B6C94ABF25D5}|BuenosAires.BodegaBA\\BuenosAires.BodegaBA.csproj|c:\\users\\naneuwu\\documents\\github\\bodegaba-csharp\\buenosaires.bodegaba\\properties\\datasources\\buenosaires.model.producto.datasource||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{F45051A2-3661-44A1-A563-B6C94ABF25D5}|BuenosAires.BodegaBA\\BuenosAires.BodegaBA.csproj|C:\\Users\\NaneUWU\\Documents\\GitHub\\BodegaBA-CSharp\\buenosaires.bodegaba\\properties\\datasources\\buenosaires.model.producto.datasource||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{F45051A2-3661-44A1-A563-B6C94ABF25D5}|BuenosAires.BodegaBA\\BuenosAires.BodegaBA.csproj|solutionrelative:buenosaires.bodegaba\\properties\\datasources\\buenosaires.model.producto.datasource||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D7860DA-4400-436A-84B1-D4F6D625C628}|BuenosAires.ServiceLayer\\BuenosAires.ServiceLayer.csproj|c:\\users\\naneuwu\\documents\\github\\bodegaba-csharp\\buenosaires.servicelayer\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{7D7860DA-4400-436A-84B1-D4F6D625C628}|BuenosAires.ServiceLayer\\BuenosAires.ServiceLayer.csproj|C:\\Users\\NaneUWU\\Documents\\GitHub\\BodegaBA-CSharp\\buenosaires.servicelayer\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7D7860DA-4400-436A-84B1-D4F6D625C628}|BuenosAires.ServiceLayer\\BuenosAires.ServiceLayer.csproj|solutionrelative:buenosaires.servicelayer\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{DF9BD625-1E7E-47F4-9A14-12BD02D9952B}|BuenosAires.BusinessLayer\\BuenosAires.BusinessLayer.csproj|solutionrelative:buenosaires.businesslayer\\bcproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F45051A2-3661-44A1-A563-B6C94ABF25D5}|BuenosAires.BodegaBA\\BuenosAires.BodegaBA.csproj|c:\\users\\naneuwu\\documents\\github\\bodegaba-csharp\\buenosaires.bodegaba\\ventanalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F45051A2-3661-44A1-A563-B6C94ABF25D5}|BuenosAires.BodegaBA\\BuenosAires.BodegaBA.csproj|C:\\Users\\NaneUWU\\Documents\\GitHub\\BodegaBA-CSharp\\buenosaires.bodegaba\\ventanalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F45051A2-3661-44A1-A563-B6C94ABF25D5}|BuenosAires.BodegaBA\\BuenosAires.BodegaBA.csproj|solutionrelative:buenosaires.bodegaba\\ventanalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -50,8 +50,7 @@
               "RelativeToolTip": "BuenosAires.BodegaBA\\Properties\\DataSources\\BuenosAires.Model.Producto.datasource",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-05-25T19:19:08.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T19:19:08.914Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "BuenosAires.ServiceLayer\\Web.Release.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-05-25T19:18:27.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T19:18:27.07Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "BuenosAires.BusinessLayer\\BcProducto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T00:50:42.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T00:50:42.392Z"
             },
             {
               "$type": "Document",
@@ -112,8 +109,7 @@
               "ToolTip": "C:\\Users\\NaneUWU\\Documents\\GitHub\\BodegaBA-CSharp\\BuenosAires.BodegaBA\\VentanaLogin.cs [Dise\u00F1o]",
               "RelativeToolTip": "BuenosAires.BodegaBA\\VentanaLogin.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T00:50:31.323Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-20T00:50:31.323Z"
             },
             {
               "$type": "Document",
