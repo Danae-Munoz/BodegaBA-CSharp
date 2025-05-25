@@ -28,15 +28,5 @@ namespace BuenosAires.BodegaBA
                 this.MensajeInfo(sc.Mensaje);
             }
         }
-
-        private void checkBox1_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void VentanaLogin_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }

@@ -20,3 +20,14 @@ C:\BuenosAires\BodegaBA-CSharp\BuenosAires.Model\obj\Debug\BuenosAires.Model.csp
 C:\BuenosAires\BodegaBA-CSharp\BuenosAires.Model\obj\Debug\BuenosAi.DD85F527.Up2Date
 C:\BuenosAires\BodegaBA-CSharp\BuenosAires.Model\obj\Debug\BuenosAires.Model.dll
 C:\BuenosAires\BodegaBA-CSharp\BuenosAires.Model\obj\Debug\BuenosAires.Model.pdb
+C:\Users\NaneUWU\Desktop\BodegaBA-CSharp\BuenosAires.Model\bin\Debug\BuenosAires.Model.dll
+C:\Users\NaneUWU\Desktop\BodegaBA-CSharp\BuenosAires.Model\bin\Debug\BuenosAires.Model.pdb
+C:\Users\NaneUWU\Desktop\BodegaBA-CSharp\BuenosAires.Model\bin\Debug\EntityFramework.dll
+C:\Users\NaneUWU\Desktop\BodegaBA-CSharp\BuenosAires.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NaneUWU\Desktop\BodegaBA-CSharp\BuenosAires.Model\bin\Debug\EntityFramework.xml
+C:\Users\NaneUWU\Desktop\BodegaBA-CSharp\BuenosAires.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NaneUWU\Desktop\BodegaBA-CSharp\BuenosAires.Model\obj\Debug\BuenosAires.Model.csproj.AssemblyReference.cache
+C:\Users\NaneUWU\Desktop\BodegaBA-CSharp\BuenosAires.Model\obj\Debug\BuenosAires.Model.csproj.CoreCompileInputs.cache
+C:\Users\NaneUWU\Desktop\BodegaBA-CSharp\BuenosAires.Model\obj\Debug\BuenosAi.DD85F527.Up2Date
+C:\Users\NaneUWU\Desktop\BodegaBA-CSharp\BuenosAires.Model\obj\Debug\BuenosAires.Model.dll
+C:\Users\NaneUWU\Desktop\BodegaBA-CSharp\BuenosAires.Model\obj\Debug\BuenosAires.Model.pdb
